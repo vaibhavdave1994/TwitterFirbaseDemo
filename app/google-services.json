@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "370884564772",
+    "firebase_url": "https://twitterfirbasedemo.firebaseio.com",
+    "project_id": "twitterfirbasedemo",
+    "storage_bucket": "twitterfirbasedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370884564772:android:be0b9560e654fa416005b1",
+        "android_client_info": {
+          "package_name": "com.e.twitterfirbasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370884564772-5atjm4gnd8nnhag4phvbhr1hjg49nvs0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.twitterfirbasedemo",
+            "certificate_hash": "b3083ee880776d6e5a074b56fbf81810fbab65ff"
+          }
+        },
+        {
+          "client_id": "370884564772-8170c2rkoabcn3p0oa744titgerq36f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARAQSGZ5hI2qoqgBUsD8oplMQunIrybBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370884564772-8170c2rkoabcn3p0oa744titgerq36f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

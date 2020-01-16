@@ -1,0 +1,5 @@
+<resources>
+    <string name="twitter_Consumer_keys">sZUcHyCLEkZqdsij5zIwJjKK3</string>
+    <string name="twitter_Consumer_secret">KSE5lH5tOfUY27XCE5cATwH7DykhYA6MBxp6tJVA7x6IzuAT3I</string>
+    <string name="app_name">TwitterFirbaseDemo</string>
+</resources>
